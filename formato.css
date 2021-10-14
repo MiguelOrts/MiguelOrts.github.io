@@ -2,4 +2,5 @@ h1 {color:black;}
 #f1 {color:green;}
 .f2 {color:red;}
 
-	b {color:yellow;}
+b {color:yellow;}
+#inverse {color:white; background-color:black;}
